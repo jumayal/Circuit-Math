@@ -1,0 +1,23 @@
+227.364204417
+Frequency diff: -23.4315595086 Value: 220.0 Cap 1: 0.00022 Res 1: 1000000
+Frequency diff: -9.24662696923 Value: 224.4 Cap 1: 0.00033 Res 1: 680000
+Frequency diff: -20.484124454 Value: 220.9 Cap 1: 0.00047 Res 1: 470000
+Frequency diff: -9.24662696923 Value: 224.4 Cap 1: 0.00068 Res 1: 330000
+Frequency diff: -23.4315595086 Value: 220.0 Cap 1: 0.00022 Res 1: 1000000
+Frequency diff: -9.24662696923 Value: 224.4 Cap 1: 0.00033 Res 1: 680000
+Frequency diff: -20.484124454 Value: 220.9 Cap 1: 0.00047 Res 1: 470000
+Frequency diff: -9.24662696923 Value: 224.4 Cap 1: 0.00068 Res 1: 330000
+Frequency diff: -23.4315595086 Value: 220.0 Cap 1: 0.001 Res 1: 220000
+Frequency diff: -7.35530263065 Value: 225.0 Cap 1: 0.0015 Res 1: 150000
+Frequency diff: -23.4315595086 Value: 220.0 Cap 1: 0.0022 Res 1: 100000
+Frequency diff: -9.24662696923 Value: 224.4 Cap 1: 0.0033 Res 1: 68000
+Frequency diff: -20.484124454 Value: 220.9 Cap 1: 0.0047 Res 1: 47000
+Frequency diff: -9.24662696923 Value: 224.4 Cap 1: 0.0068 Res 1: 33000
+Frequency diff: -23.4315595086 Value: 220.0 Cap 1: 0.01 Res 1: 22000
+Frequency diff: -23.4315595086 Value: 220.0 Cap 1: 0.022 Res 1: 10000
+Frequency diff: -20.484124454 Value: 220.9 Cap 1: 0.047 Res 1: 4700
+Frequency diff: -9.24662696923 Value: 224.4 Cap 1: 0.068 Res 1: 3300
+Frequency diff: -23.4315595086 Value: 220.0 Cap 1: 0.1 Res 1: 2200
+Frequency diff: -23.4315595086 Value: 220.0 Cap 1: 0.22 Res 1: 1000
+Frequency diff: -20.484124454 Value: 220.9 Cap 1: 0.47 Res 1: 470
+Frequency diff: -23.4315595086 Value: 220.0 Cap 1: 2.2 Res 1: 100
